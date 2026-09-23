@@ -1,1 +1,3 @@
-# Suspicious-Login-Detector
+# Loginfer
+
+Explainable risk scoring for login logs — no black-box flags.

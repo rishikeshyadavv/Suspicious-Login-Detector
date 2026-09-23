@@ -1,4 +1,4 @@
-# FRONTEND — Dashboard Spec (single `index.html`)
+# FRONTEND — Loginfer Dashboard Spec (single `index.html`)
 
 One file. No frameworks, no build step. Inline `<style>` and `<script>`.
 

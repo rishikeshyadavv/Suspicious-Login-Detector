@@ -1,4 +1,4 @@
-# TECH — Stack & Setup
+# TECH — Loginfer Stack & Setup
 
 All choices are free/open-source. No API keys, no signups, no paid services.
 

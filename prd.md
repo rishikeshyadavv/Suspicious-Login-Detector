@@ -1,4 +1,4 @@
-# PRD — Suspicious Login Detector (KDG)
+# PRD — Loginfer (KDG)
 
 ## 1. One-liner
 A dashboard where an analyst uploads a login log (CSV) and instantly gets, per login, a **risk verdict (Low/Medium/High)** with **plain-English reasons**, by combining rule checks + an ML anomaly score.

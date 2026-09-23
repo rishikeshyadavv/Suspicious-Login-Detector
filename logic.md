@@ -1,4 +1,4 @@
-# LOGIC — Detection Rules & Risk Scoring
+# LOGIC — Loginfer Detection Rules & Risk Scoring
 
 This is the "AI + cyber" brain referenced in `tech.md`'s `rules.py` / `scoring.py`. Keep it simple — explainability beats complexity in a 90-minute build.
 

@@ -1,4 +1,4 @@
-# WORKFLOW — 90-Minute Build Plan
+# WORKFLOW — Loginfer 90-Minute Build Plan
 
 Do these tasks **in this order**. Timebox each one — if a task overruns, cut scope per `prd.md` §4, don't cut the next task's time.
 
